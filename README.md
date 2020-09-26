@@ -74,7 +74,7 @@ Weakly Supervised:
 
 Supervised:
 - [Moment Retrieval via Cross-Modal Interaction Networks With Query Reconstruction](https://ieeexplore.ieee.org/abstract/document/8962274) - Zhijie Lin et al, `TIP 2020`.
-- [Rethinking the Bottom-Up Framework for Query-based Video Localization](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-ChenL.2736.pdf) - Long Chen et al, `AAAI 2020`.
+- [Rethinking the Bottom-Up Framework for Query-based Video Localization](https://aaai.org/ojs/index.php/AAAI/article/view/6627) - Long Chen et al, `AAAI 2020`.
 - [Temporally Grounding Language Queries in Videos by Contextual Boundary-aware Prediction](https://arxiv.org/abs/1909.05010) - Jingwen Wang et al, `AAAI 2020`. [[code]](https://github.com/JaywongWang/CBP)
 - [Learning 2D Temporal Adjacent Networks for Moment Localization with Natural Language](https://arxiv.org/pdf/1912.03590.pdf) - Songyang Zhang et al, `AAAI 2020`. [[code]](https://github.com/microsoft/2D-TAN)
 - [Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video](https://arxiv.org/pdf/2001.06680.pdf) - Jie Wu et al, `AAAI 2020`. [[code]](https://github.com/WuJie1010/TSP-PRL)
