@@ -80,7 +80,7 @@ Supervised:
 - [Tree-Structured Policy based Progressive Reinforcement Learning for Temporally Language Grounding in Video](https://arxiv.org/pdf/2001.06680.pdf) - Jie Wu et al, `AAAI 2020`. [[code]](https://github.com/WuJie1010/TSP-PRL)
 - [Proposal-free Temporal Moment Localization of a Natural-Language Query in Video using Guided Attention](https://arxiv.org/abs/1908.07236) - C. R. Opazo et al, `WACV 2020`. [[code]](https://github.com/crodriguezo/TMLGA)
 - [Local-Global Video-Text Interactions for Temporal Grounding](http://arxiv.org/abs/2004.07514) - Mun Jonghwan et al, `CVPR 2020`. [[code]](https://github.com/JonghwanMun/LGI4temporalgrounding)
-- [Dense Regression Network for Video Grounding](http://arxiv.org/abs/2004.03545) - Zeng Runhao et al, `CVPR 2020`.
+- [Dense Regression Network for Video Grounding](http://arxiv.org/abs/2004.03545) - Zeng Runhao et al, `CVPR 2020`. [[code]](https://github.com/Alvin-Zeng/DRN)
 - [Language Guided Networks for Cross-modal Moment Retrieval](http://arxiv.org/abs/2006.10457) - Kun Liu et al, `arxiv`.
 
 Weakly Supervised:
