@@ -81,11 +81,15 @@ Supervised:
 - [Proposal-free Temporal Moment Localization of a Natural-Language Query in Video using Guided Attention](https://arxiv.org/abs/1908.07236) - C. R. Opazo et al, `WACV 2020`. [[code]](https://github.com/crodriguezo/TMLGA)
 - [Local-Global Video-Text Interactions for Temporal Grounding](http://arxiv.org/abs/2004.07514) - Mun Jonghwan et al, `CVPR 2020`. [[code]](https://github.com/JonghwanMun/LGI4temporalgrounding)
 - [Dense Regression Network for Video Grounding](http://arxiv.org/abs/2004.03545) - Zeng Runhao et al, `CVPR 2020`. [[code]](https://github.com/Alvin-Zeng/DRN)
+- [Span-based Localizing Network for Natural Language Video Localization](https://www.aclweb.org/anthology/2020.acl-main.585/) - Hao Zhang et al, `ACL 2020`. [[code]](https://github.com/IsaacChanghau/VSLNet)
+- [Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650596.pdf) - Shaoxiang Chen et al, `ECCV 2020`. [[code]](https://github.com/forwchen/HVTG)
+- [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490324.pdf) - Shaoxiang Chen et al, `ECCV 2020`.
 - [Language Guided Networks for Cross-modal Moment Retrieval](http://arxiv.org/abs/2006.10457) - Kun Liu et al, `arxiv`.
 
 Weakly Supervised:
 - [Weakly-Supervised Video Moment Retrieval via Semantic Completion Network](https://arxiv.org/pdf/1911.08199.pdf) - Zhijie Lin et al, `AAAI 2020`.
 - [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://arxiv.org/abs/2008.08257) - Zhu Zhang et al, `MM 2020`.
+- [VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval) - Minuk Ma et al, `ECCV 2020`.
 
 ## Dataset
 
