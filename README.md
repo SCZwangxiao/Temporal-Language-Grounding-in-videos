@@ -96,8 +96,8 @@ Weakly Supervised:
 - [VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730154.pdf) - Minuk Ma et al, `ECCV 2020`.
 
 Conferences to be update:
-- ECCV 2020
-- MM 2020
+- MM 2020 (wait for camera-ready)
+- EMNLP 2020 (wait for camera-ready)
 - ICCV 2020
 
 ## Dataset
