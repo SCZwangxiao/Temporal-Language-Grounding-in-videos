@@ -25,7 +25,7 @@ Markdown format:
 
 ## Keywords used in searching
 
-- grounding, moment retrieval, localization
+- grounding, retrieval, localization
 
 ## Papers
 
