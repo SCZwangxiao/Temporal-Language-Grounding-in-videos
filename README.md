@@ -94,6 +94,7 @@ Weakly Supervised:
 Conferences to be update:
 - ECCV 2020
 - MM 2020
+- ICCV 2020
 
 ## Dataset
 
