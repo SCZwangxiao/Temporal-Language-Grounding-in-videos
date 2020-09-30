@@ -88,8 +88,8 @@ Supervised:
 - [Span-based Localizing Network for Natural Language Video Localization](https://www.aclweb.org/anthology/2020.acl-main.585/) - Hao Zhang et al, `ACL 2020`. [[code]](https://github.com/IsaacChanghau/VSLNet)
 - [Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650596.pdf) - Shaoxiang Chen et al, `ECCV 2020`. [[code]](https://github.com/forwchen/HVTG)
 - [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490324.pdf) - Shaoxiang Chen et al, `ECCV 2020`.
-- [Jointly Cross- and Self-Modal Graph Attention Network for Query-Based Moment Localization](http://arxiv.org/abs/2008.01403) - Daizong Liu et al, 'MM 2020'. [[code]](https://github.com/liudaizong/CSMGAN)
-- [Fine-grained Iterative Attention Network for TemporalLanguage Localization in Videos](http://arxiv.org/abs/2008.02448) - Xiaoye Qu et al, 'MM 2020'.
+- [Jointly Cross- and Self-Modal Graph Attention Network for Query-Based Moment Localization](http://arxiv.org/abs/2008.01403) - Daizong Liu et al, `MM 2020`. [[code]](https://github.com/liudaizong/CSMGAN)
+- [Fine-grained Iterative Attention Network for TemporalLanguage Localization in Videos](http://arxiv.org/abs/2008.02448) - Xiaoye Qu et al, `MM 2020`.
 - [Language Guided Networks for Cross-modal Moment Retrieval](http://arxiv.org/abs/2006.10457) - Kun Liu et al, `arxiv`.
 
 Weakly Supervised:
