@@ -89,7 +89,11 @@ Supervised:
 - [Hierarchical Visual-Textual Graph for Temporal Activity Localization via Language](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650596.pdf) - Shaoxiang Chen et al, `ECCV 2020`. [[code]](https://github.com/forwchen/HVTG)
 - [Learning Modality Interaction for Temporal Sentence Localization and Event Captioning in Videos](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490324.pdf) - Shaoxiang Chen et al, `ECCV 2020`.
 - [Jointly Cross- and Self-Modal Graph Attention Network for Query-Based Moment Localization](http://arxiv.org/abs/2008.01403) - Daizong Liu et al, `MM 2020`. [[code]](https://github.com/liudaizong/CSMGAN)
-- [Fine-grained Iterative Attention Network for TemporalLanguage Localization in Videos](http://arxiv.org/abs/2008.02448) - Xiaoye Qu et al, `MM 2020`.
+- [Fine-grained Iterative Attention Network for Temporal Language Localization in Videos](http://arxiv.org/abs/2008.02448) - Xiaoye Qu et al, `MM 2020`.
+- [Dual Path Interaction Network for Video Moment Localization](https://dl.acm.org/doi/10.1145/3394171.3413975) - Hao Wang et al, `MM 2020`.
+- [Adversarial Video Moment Retrieval by Jointly Modeling Ranking and Localization](https://dl.acm.org/doi/10.1145/3394171.3413841) -  et al, `MM 2020`. [[code]](https://github.com/yawenzeng/AVMR)
+- [STRONG: Spatio-Temporal Reinforcement Learning for Cross-Modal Video Moment Localization](https://dl.acm.org/doi/10.1145/3394171.3413840) - Da Cao et al, `MM 2020`. [[code]](https://github.com/yawenzeng/STRONG)
+- [Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos](http://arxiv.org/abs/2009.08614) - Jie Wu et al, `MM 2020`.
 - [Language Guided Networks for Cross-modal Moment Retrieval](http://arxiv.org/abs/2006.10457) - Kun Liu et al, `arxiv`.
 
 Weakly Supervised:
@@ -98,9 +102,7 @@ Weakly Supervised:
 - [VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730154.pdf) - Minuk Ma et al, `ECCV 2020`.
 
 Conferences to be update:
-- MM 2020 (some papers are added, wait for proceedings)
 - EMNLP 2020 (wait for camera-ready)
-- ICCV 2020
 
 ## Dataset
 
