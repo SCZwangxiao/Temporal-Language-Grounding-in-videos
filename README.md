@@ -103,7 +103,8 @@ Weakly Supervised:
 - [Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2010.11594) - Yuanhao Zhai et al, `ECCV 2020`.
 
 Conferences to be update:
-- EMNLP 2020 (wait for camera-ready)
+- NeurIPS 2020
+- AAAI2021
 
 ## Dataset
 
