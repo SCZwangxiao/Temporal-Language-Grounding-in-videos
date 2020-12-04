@@ -104,8 +104,7 @@ Weakly Supervised:
 - [Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding](https://proceedings.neurips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf) - Zhang Zhu et al, `NeruIPS 2020`.
 
 Conferences to be update:
-- IJCAI 2020
-- AAAI2021
+- AAAI 2021 (wait for proceedings)
 
 ## Dataset
 
