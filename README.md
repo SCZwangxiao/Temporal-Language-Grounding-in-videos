@@ -50,6 +50,7 @@ Markdown format:
 - (Video Retrieval+Grounding)[Find and Focus: Retrieve and Localize Video Events with Natural Language Queries](<http://openaccess.thecvf.com/content_ECCV_2018/papers/Dian_SHAO_Find_and_Focus_ECCV_2018_paper.pdf>) - Dian Shao  et al, `ECCV 2018`.
 - [Temporally Grounding Natural Sentence in Video](<https://aclweb.org/anthology/papers/D/D18/D18-1015/>) - J. Chen et al, `EMNLP 2018`.
 - [Localizing Moments in Video with Temporal Language](<https://arxiv.org/abs/1809.01337>) - Lisa Anne Hendricks et al, `EMNLP 2018`.
+- [Cross-modal Moment Localization in Videos](<https://doi.org/10.1145/3240508.3240549>) - Meng Liu et al, `MM 2018`.
 
 ### 2019
 Supervised:
@@ -100,7 +101,7 @@ Weakly Supervised:
 - [Weakly-Supervised Video Moment Retrieval via Semantic Completion Network](https://arxiv.org/pdf/1911.08199.pdf) - Zhijie Lin et al, `AAAI 2020`.
 - [VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730154.pdf) - Minuk Ma et al, `ECCV 2020`.
 - [Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2010.11594) - Yuanhao Zhai et al, `ECCV 2020`.
-- [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://arxiv.org/abs/2008.08257) - Zhu Zhang et al, `MM 2020`.
+- [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://arxiv.org/abs/2008.08257) - Zhu Zhang et al, `MM 2020`. [[code]](https://github.com/ikuinen/regularized_two-branch_proposal_network)
 - [Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding](https://proceedings.neurips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf) - Zhang Zhu et al, `NeruIPS 2020`.
 
 Conferences to be update:
