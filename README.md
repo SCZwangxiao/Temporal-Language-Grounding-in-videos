@@ -1,10 +1,10 @@
-# Temporal-Language-Grounding-in-Videos
+# Temporal Moment(Action) Localization via Language / Temporal Language Grounding / Video Moment Retrieval
 
 ## Introduction
 
 Task：
 
-- **Temporal Moment Localization via Language**: given a query, find the corresponding moment in a given video. **(major focus of this repo)**
+- given a query, find the corresponding moment in a given video. **(major focus of this repo)**
 
 ## Format
 
