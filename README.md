@@ -1,4 +1,4 @@
-# Temporal Moment(Action) Localization via Language / Temporal Language Grounding / Video Moment Retrieval
+# Temporal Language Grounding
 
 ## Introduction
 
