@@ -96,7 +96,6 @@ Supervised:
 - [STRONG: Spatio-Temporal Reinforcement Learning for Cross-Modal Video Moment Localization](https://dl.acm.org/doi/10.1145/3394171.3413840) - Da Cao et al, `MM 2020`. [[code]](https://github.com/yawenzeng/STRONG)
 - [Reinforcement Learning for Weakly Supervised Temporal Grounding of Natural Language in Untrimmed Videos](http://arxiv.org/abs/2009.08614) - Jie Wu et al, `MM 2020`.
 - [Language Guided Networks for Cross-modal Moment Retrieval](http://arxiv.org/abs/2006.10457) - Kun Liu et al, `arxiv`.
-- [Boundary Proposal Network for Two-Stage Natural Language Video Localization]() - Shaoning Xiao et al, `AAAI 2021`.
 
 Weakly Supervised:
 - [Weakly-Supervised Video Moment Retrieval via Semantic Completion Network](https://arxiv.org/pdf/1911.08199.pdf) - Zhijie Lin et al, `AAAI 2020`.
@@ -104,6 +103,12 @@ Weakly Supervised:
 - [Two-Stream Consensus Network for Weakly-Supervised Temporal Action Localization](https://arxiv.org/abs/2010.11594) - Yuanhao Zhai et al, `ECCV 2020`.
 - [Regularized Two-Branch Proposal Networks for Weakly-Supervised Moment Retrieval in Videos](https://arxiv.org/abs/2008.08257) - Zhu Zhang et al, `MM 2020`. [[code]](https://github.com/ikuinen/regularized_two-branch_proposal_network)
 - [Counterfactual Contrastive Learning for Weakly-Supervised Vision-Language Grounding](https://proceedings.neurips.cc/paper/2020/file/d27b95cac4c27feb850aaa4070cc4675-Paper.pdf) - Zhang Zhu et al, `NeruIPS 2020`.
+
+### 2021
+- [Interaction-Integrated Network for Natural Language Moment Localization](https://ieeexplore.ieee.org/abstract/document/9334438) - Ke Ning et al, 'TIP 2021'.
+- [Boundary Proposal Network for Two-Stage Natural Language Video Localization]() - Shaoning Xiao et al, `AAAI 2021`.
+
+
 
 Conferences to be update:
 - None
