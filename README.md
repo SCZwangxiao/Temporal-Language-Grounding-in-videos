@@ -106,7 +106,7 @@ Weakly Supervised:
 
 ### 2021
 - [Interaction-Integrated Network for Natural Language Moment Localization](https://ieeexplore.ieee.org/abstract/document/9334438) - Ke Ning et al, 'TIP 2021'.
-- [Boundary Proposal Network for Two-Stage Natural Language Video Localization]() - Shaoning Xiao et al, `AAAI 2021`.
+- [Boundary Proposal Network for Two-Stage Natural Language Video Localization](https://arxiv.org/abs/2103.08109) - Shaoning Xiao et al, `AAAI 2021`.
 
 
 
