@@ -115,19 +115,18 @@ Weakly Supervised:
 - [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2021/html/Lin_Learning_Salient_Boundary_Feature_for_Anchor-free_Temporal_Action_Localization_CVPR_2021_paper.html) - Lin et al, `CVPR 2021`. 
 - [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://openaccess.thecvf.com/content/CVPR2021/html/Qing_Temporal_Context_Aggregation_Network_for_Temporal_Action_Proposal_Refinement_CVPR_2021_paper.html) - Liu et al, `CVPR 2021`. 
 - [Multi-Shot Temporal Event Localization: A Benchmark](https://openaccess.thecvf.com/content/CVPR2021/html/Liu_Multi-Shot_Temporal_Event_Localization_A_Benchmark_CVPR_2021_paper.html) - Liu et al, `CVPR 2021`. [[code]](https://songbai.site/muses/)
-- [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.html) - Luo et al, `CVPR 2021`. 
 - [Enriching Local and Global Contexts for Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Zhu_Enriching_Local_and_Global_Contexts_for_Temporal_Action_Localization_ICCV_2021_paper.html) - Zhu et al, `ICCV 2021`. [[code]](https://github.com/buxiangzhiren/ContextLoc)
-- [Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Foreground-Action_Consistency_Network_for_Weakly_Supervised_Temporal_Action_Localization_ICCV_2021_paper.html) - Huang et al, `ICCV 2021`. [[code]](https://github.com/LeonHLJ/FAC-Net)
 - [Boundary-sensitive Pre-training for Temporal Localization in Videos](http://arxiv.org/abs/2011.10830) - Xu et al, `ICCV 2021`.
 - [Divide and Conquer for Single-Frame Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Ju_Divide_and_Conquer_for_Single-Frame_Temporal_Action_Localization_ICCV_2021_paper.html) - Ju et al, `ICCV 2021`.
 - [CAG-QIL: Context-Aware Actionness Grouping via Q Imitation Learning for Online Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Kang_CAG-QIL_Context-Aware_Actionness_Grouping_via_Q_Imitation_Learning_for_Online_ICCV_2021_paper.html) - Kang et al, `ICCV 2021`. 
-- [D2-Net: Weakly-Supervised Action Localization via Discriminative Embeddings and Denoised Activations](https://openaccess.thecvf.com/content/ICCV2021/html/Narayan_D2-Net_Weakly-Supervised_Action_Localization_via_Discriminative_Embeddings_and_Denoised_Activations_ICCV_2021_paper.html) - Narayan et al, `ICCV 2021`. [[code]](https://github.com/naraysa/D2-Net)
 - [Learning Action Completeness From Points for Weakly-Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Lee_Learning_Action_Completeness_From_Points_for_Weakly-Supervised_Temporal_Action_Localization_ICCV_2021_paper.html) - Lee et al, `ICCV 2021`. [[code]](https://github.com/Pilhyeon)
 - [Video Self-Stitching Graph Network for Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Video_Self-Stitching_Graph_Network_for_Temporal_Action_Localization_ICCV_2021_paper.html) - Zhao et al, `ICCV 2021`. 
 - [Fast Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) - Gao et al, `ICCV 2021`.
 - [Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization](http://arxiv.org/abs/2107.12589) - Huang et al, `MM 2021`.
-
-
+Weakly Supervised:
+- [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.html) - Luo et al, `CVPR 2021`. 
+- [D2-Net: Weakly-Supervised Action Localization via Discriminative Embeddings and Denoised Activations](https://openaccess.thecvf.com/content/ICCV2021/html/Narayan_D2-Net_Weakly-Supervised_Action_Localization_via_Discriminative_Embeddings_and_Denoised_Activations_ICCV_2021_paper.html) - Narayan et al, `ICCV 2021`. [[code]](https://github.com/naraysa/D2-Net)
+- [Foreground-Action Consistency Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_Foreground-Action_Consistency_Network_for_Weakly_Supervised_Temporal_Action_Localization_ICCV_2021_paper.html) - Huang et al, `ICCV 2021`. [[code]](https://github.com/LeonHLJ/FAC-Net)
 
 Conferences to be update:
 - None
