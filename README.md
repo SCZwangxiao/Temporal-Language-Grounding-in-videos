@@ -123,6 +123,7 @@ Weakly Supervised:
 - [Video Self-Stitching Graph Network for Temporal Action Localization](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Video_Self-Stitching_Graph_Network_for_Temporal_Action_Localization_ICCV_2021_paper.html) - Zhao et al, `ICCV 2021`. 
 - [Fast Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) - Gao et al, `ICCV 2021`.
 - [Cross-modal Consensus Network for Weakly Supervised Temporal Action Localization](http://arxiv.org/abs/2107.12589) - Huang et al, `MM 2021`.
+
 Weakly Supervised:
 - [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://openaccess.thecvf.com/content/CVPR2021/html/Luo_Action_Unit_Memory_Network_for_Weakly_Supervised_Temporal_Action_Localization_CVPR_2021_paper.html) - Luo et al, `CVPR 2021`. 
 - [D2-Net: Weakly-Supervised Action Localization via Discriminative Embeddings and Denoised Activations](https://openaccess.thecvf.com/content/ICCV2021/html/Narayan_D2-Net_Weakly-Supervised_Action_Localization_via_Discriminative_Embeddings_and_Denoised_Activations_ICCV_2021_paper.html) - Narayan et al, `ICCV 2021`. [[code]](https://github.com/naraysa/D2-Net)
