@@ -111,6 +111,7 @@ Weakly Supervised:
 - [Multi-Modal Relational Graph for Cross-Modal Video Moment Retrieval](https://openaccess.thecvf.com/content/CVPR2021/html/Zeng_Multi-Modal_Relational_Graph_for_Cross-Modal_Video_Moment_Retrieval_CVPR_2021_paper.html) - Zeng et al, `CVPR 2021`. 
 - [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval With Transformers](https://openaccess.thecvf.com/content/CVPR2021/html/Miech_Thinking_Fast_and_Slow_Efficient_Text-to-Visual_Retrieval_With_Transformers_CVPR_2021_paper.html) - Miech et al, `CVPR 2021`. 
 - [Fast Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2021/html/Gao_Fast_Video_Moment_Retrieval_ICCV_2021_paper.html) - Gao et al, `ICCV 2021`.
+- [Hierarchical Deep Residual Reasoning for Temporal Moment Localization](https://arxiv.org/abs/2111.00417) - Ma et al, `arxiv`.
 
 Conferences to be update:
 - None
