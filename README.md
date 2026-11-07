@@ -116,6 +116,11 @@ Weakly Supervised:
 Conferences to be update:
 - None
 
+### 2026
+- [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) - Xinhao Li et al, `arXiv 2026`. [[code]](https://github.com/MCG-NJU/VideoChat3)
+- [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423) - Yuhan Zhu et al, `arXiv 2026`. [[code]](https://github.com/MCG-NJU/TimeLens2)
+- [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) - Yuhan Zhu et al, `arXiv 2026`. [[code]](https://github.com/MCG-NJU/VideoJev)
+
 ## Dataset
 
 - [ActivityNet Captions](http://cs.stanford.edu/people/ranjaykrishna/densevid/)
